@@ -9,7 +9,7 @@
    **Módulo:** Fundamentos de Hardware (FHW)
    
    
-   ### Contenido
+  ## Contenido
  
    - Apuntes de clase
  
@@ -18,7 +18,7 @@
    - Proyectos
  
   
-   ### Enlaces
+  ## Enlaces
  
    - [Índice de apuntes](apuntes/README.md)
  
