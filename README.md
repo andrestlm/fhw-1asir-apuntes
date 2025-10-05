@@ -1,5 +1,5 @@
  
-#Apuntes FHW — 1º ASIR
+# Apuntes FHW — 1º ASIR
  
   
    **Alumno/a:** Nombre Apellido  
@@ -10,7 +10,7 @@
  
   
  
-   ##Contenido
+   ## Contenido
  
    - Apuntes de clase
  
@@ -20,7 +20,7 @@
  
   
  
-   ##Enlaces
+   ## Enlaces
  
    - [Índice de apuntes](apuntes/README.md)
  
