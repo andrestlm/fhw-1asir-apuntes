@@ -18,7 +18,7 @@
    - Proyectos
  
   
-  ## Enlaces
+  ## Contenido
  
    - [Índice de apuntes](apuntes/README.md)
  
